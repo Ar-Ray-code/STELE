@@ -1,0 +1,6 @@
+/target
+.pio/
+__pycache__/
+*.txt
+*.json
+stele.h
